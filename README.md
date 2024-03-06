@@ -1,4 +1,4 @@
-# GGR472 Week 9: Introducting to GIS analysis with Turf.js
+# GGR472 Week 9: Introduction to GIS analysis with Turf.js
  
 This repository contains resources to help students learn about using the Turf.js library to perform geospatial analysis on 1) existing data stored in a GeoJSON and 2) user input data (such as clicked locations on the map)
 
